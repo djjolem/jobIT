@@ -90,7 +90,7 @@
 
         <div>
           <label> Location </label><br>
-            Bilo gde
+            Location - make list of locations 
         </div>
         <div> &nbsp; </div>
 
