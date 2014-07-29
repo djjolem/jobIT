@@ -43,7 +43,7 @@ class DBConnection {
 
 	function getCompanies(){
 		# hard coded - for now later it will be automatically get from user profile
-		return array('Djo Com', 'Djolo olo', 'Verisec');
+		return array('Company 1', 'Company 2', 'Company 3');
 	}
 
 	function getTags(){
