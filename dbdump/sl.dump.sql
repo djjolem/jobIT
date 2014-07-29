@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.33, for Linux (x86_64)
 --
--- Host: localhost    Database: short_list
+-- Host: localhost    Database: jobit
 -- ------------------------------------------------------
 -- Server version	5.5.33-31.1
 
